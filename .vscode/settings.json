@@ -1,0 +1,14 @@
+{
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    "editor.parameterHints.enabled": false,
+    "editor.wordBasedSuggestions": false,
+    "editor.snippetSuggestions": "none",
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingOvertype": "never",
+    "editor.autoClosingQuotes": "never",
+    "editor.suggestOnTriggerCharacters": false
+}
