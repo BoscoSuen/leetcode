@@ -1,7 +1,7 @@
 # leetcode
 leetcode in Java
 
-# Topic with leetcode problems
+# Topic with starred leetcode problems
 
 ## Binary Search
 | Problem   | Solution   
