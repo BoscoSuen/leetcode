@@ -9,7 +9,7 @@ class Solution {
     /*
     binary search, 其中一边是rotated,一边是sorted
     https://paper.dropbox.com/doc/LC33-Search-in-Rotated-Sorted-Array--AxH3mDOCIXBcjx02h_NG6q0RAg-FP9pY9sOnnnKSoEHdnGUi
-    利用左闭又开的模版，找到最小的m使得[l,m)区间内g(m)一定为true(此题内的g(m)为有target的数)
+    左闭右开，找到最小的m使得[l,m)区间内g(m)一定为true(此题内的g(m)为有target的数)
     分为两种情况:
         0.  找到target, 停止binary search
         1.  nums[mid] < nums[left], 左边一定是rotated, eg: 6 7 1 2 3 4 5

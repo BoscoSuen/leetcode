@@ -7,7 +7,7 @@
 // @lc code=start
 class Solution {
     /*
-    利用左闭右开的模版
+    左闭右开
     下界g(m): g(m) >= target
     上界g(m): g(m) > target, 得到的满足条件的最小m需要减1
     time: O(logn)
