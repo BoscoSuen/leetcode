@@ -7,6 +7,13 @@
 // @lc code=start
 import java.util.*;
 class Solution {
+    /*
+    利用Priority Queue，先储存每个nums1元素和nums2[0]的index，
+    再poll出一组元素的时候，将当前nums1 index和nums2 index+1的元素进行结合，
+    加入到queue中，重复该过程，得到k个输出的结果
+    time: O(klogk)
+    space: O(n)
+    */
     public List<List<Integer>> kSmallestPairs(int[] nums1, int[] nums2, int k) {
         List<List<Integer>> res = new ArrayList<>();
         if (nums1 == null || nums2 == null || nums1.length == 0 || nums2.length == 0) return res;
