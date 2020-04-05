@@ -11,4 +11,5 @@
     "editor.autoClosingOvertype": "never",
     "editor.autoClosingQuotes": "never",
     "editor.suggestOnTriggerCharacters": false
+    // "problems.decorations.enabled": false
 }
