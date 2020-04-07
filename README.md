@@ -33,4 +33,4 @@
 ## Iterator
 | Problem   | Solution   
 :-         |   :-: 
-[341 Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [List Iterator]
+[341 Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [List Iterator](https://github.com/Yukinichi/leetcode/blob/master/341.flatten-nested-list-iterator.java)
