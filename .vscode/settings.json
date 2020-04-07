@@ -10,6 +10,10 @@
     "editor.autoClosingBrackets": "never",
     "editor.autoClosingOvertype": "never",
     "editor.autoClosingQuotes": "never",
-    "editor.suggestOnTriggerCharacters": false
-    // "problems.decorations.enabled": false
+    "editor.suggestOnTriggerCharacters": false,
+    "workbench.colorCustomizations": {
+        "editorError.foreground":   "#00000000",
+        "editorWarning.foreground": "#00000000",
+        "editorInfo.foreground":    "#00000000"
+    }
 }

@@ -29,3 +29,8 @@
 | Problem   | Solution   
 :-         |   :-: 
 [60 Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [找到确定每个位置的数字的规律](https://github.com/Yukinichi/leetcode/blob/master/60.permutation-sequence.java)
+
+## Iterator
+| Problem   | Solution   
+:-         |   :-: 
+[341 Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [List Iterator]
