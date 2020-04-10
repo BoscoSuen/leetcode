@@ -33,7 +33,7 @@
 ## Sliding Window
 | Problem   | Solution   
 :-         |   :-: 
-[76 Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Java Solution]
+[76 Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Java Solution](https://github.com/Yukinichi/leetcode/blob/master/76.minimum-window-substring.java)
 
 ## Iterator
 | Problem   | Solution   
