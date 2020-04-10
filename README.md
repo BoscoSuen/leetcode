@@ -30,6 +30,11 @@
 :-         |   :-: 
 [60 Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [找到确定每个位置的数字的规律](https://github.com/Yukinichi/leetcode/blob/master/60.permutation-sequence.java)
 
+## Sliding Window
+| Problem   | Solution   
+:-         |   :-: 
+[76 Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Java Solution]
+
 ## Iterator
 | Problem   | Solution   
 :-         |   :-: 
