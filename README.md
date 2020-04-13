@@ -35,6 +35,11 @@
 :-         |   :-: 
 [76 Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Java Solution](https://github.com/Yukinichi/leetcode/blob/master/76.minimum-window-substring.java)
 
+## Monotonic Queue
+| Problem   | Solution   
+:-         |   :-: 
+[862 Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [Monotonic Queue + Sliding Window]
+
 ## Iterator
 | Problem   | Solution   
 :-         |   :-: 
