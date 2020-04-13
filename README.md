@@ -38,7 +38,7 @@
 ## Monotonic Queue
 | Problem   | Solution   
 :-         |   :-: 
-[862 Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [Monotonic Queue + Sliding Window]
+[862 Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [Monotonic Queue + Sliding Window](https://github.com/Yukinichi/leetcode/blob/master/862.shortest-subarray-with-sum-at-least-k.java)
 
 ## Iterator
 | Problem   | Solution   
