@@ -36,10 +36,15 @@
 :-         |   :-: 
 [76 Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Java Solution](https://github.com/Yukinichi/leetcode/blob/master/76.minimum-window-substring.java)
 
+## Binary Search Tree(BST)
+| Problem   | Solution   
+:-         |   :-: 
+[315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Java Solution]
+
 ## Fenwick Tree / Binary Indexed Tree
 | Problem   | Solution   
 :-         |   :-: 
-[315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Fenwick Tree](https://paper.dropbox.com/doc/LC315-Count-of-Smaller-Numbers-After-Self--AyHoWxU6VIidxlBz~LZ_txJ6Ag-0ToMbjV1oQmmYKjHm4sFf)
+[315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [C++ Solution](https://paper.dropbox.com/doc/LC315-Count-of-Smaller-Numbers-After-Self--AyHoWxU6VIidxlBz~LZ_txJ6Ag-0ToMbjV1oQmmYKjHm4sFf)
 
 ## Monotonic Queue
 | Problem   | Solution   
