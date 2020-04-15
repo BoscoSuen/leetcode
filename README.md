@@ -39,12 +39,12 @@
 ## Binary Search Tree(BST)
 | Problem   | Solution   
 :-         |   :-: 
-[315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Java Solution]
+[315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Java Solution](https://github.com/Yukinichi/leetcode/blob/master/315.count-of-smaller-numbers-after-self.java)
 
-## Fenwick Tree / Binary Indexed Tree
+## Fenwick Tree / Binary Indexed Tree(BIT)
 | Problem   | Solution   
 :-         |   :-: 
-[315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [C++ Solution](https://paper.dropbox.com/doc/LC315-Count-of-Smaller-Numbers-After-Self--AyHoWxU6VIidxlBz~LZ_txJ6Ag-0ToMbjV1oQmmYKjHm4sFf)
+[315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [C++ Solution](https://github.com/Yukinichi/leetcode/blob/master/315.count-of-smaller-numbers-after-self.cpp)
 
 ## Monotonic Queue
 | Problem   | Solution   
