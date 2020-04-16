@@ -35,6 +35,7 @@
 | Problem   | Solution   
 :-         |   :-: 
 [60 Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [找到确定每个位置的数字的规律](https://github.com/Yukinichi/leetcode/blob/master/60.permutation-sequence.java)
+[127 Word Ladder](https://leetcode.com/problems/word-ladder/) | [双向BFS](https://github.com/Yukinichi/leetcode/blob/master/127.word-ladder.java)
 
 ## Sliding Window
 | Problem   | Solution   
