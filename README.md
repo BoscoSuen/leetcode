@@ -10,7 +10,7 @@
 ## Dynamic Programming
 | Problem   | Solution   
 :-         |   :-: 
-[300 Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [C++ Solution]()
+[300 Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [C++ Solution](https://github.com/Yukinichi/leetcode/blob/master/300.longest-increasing-subsequence.cpp)
 [354 Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Binary Search+DP(思路同lc300)](https://github.com/Yukinichi/leetcode/blob/master/354.russian-doll-envelopes.java)
 
 
