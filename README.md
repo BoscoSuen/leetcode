@@ -43,7 +43,7 @@
 :-         |   :-: 
 [76 Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Java Solution](https://github.com/Yukinichi/leetcode/blob/master/76.minimum-window-substring.java)
 
-## Binary Search Tree(BST)
+## Binary Search Tree(BST)   
 | Problem   | Solution   
 :-         |   :-: 
 [315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Java Solution](https://github.com/Yukinichi/leetcode/blob/master/315.count-of-smaller-numbers-after-self.java)
