@@ -1,5 +1,11 @@
 # Topic with starred leetcode problems
 
+## Array
+| Problem   | Solution   
+:-         |   :-: 
+[48 Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/48.rotate-image.java)
+[54 Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [注意半边之后要重新判断](https://github.com/Yukinichi/leetcode/blob/master/54.spiral-matrix.java)
+
 ## Binary Search
 | Problem   | Solution   
 :-         |   :-: 
@@ -7,11 +13,33 @@
 [81 Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [多考虑重复的情况](https://github.com/Yukinichi/leetcode/blob/master/81.search-in-rotated-sorted-array-ii.java)
 [34 Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/34.find-first-and-last-position-of-element-in-sorted-array.java)
 
+## Binary Search Tree(BST)   
+| Problem   | Solution   
+:-         |   :-: 
+[315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Java Solution](https://github.com/Yukinichi/leetcode/blob/master/315.count-of-smaller-numbers-after-self.java)
+[1008 Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [递归O(n)解](https://github.com/Yukinichi/leetcode/blob/master/1008.construct-binary-search-tree-from-preorder-traversal.java)
+
 ## Dynamic Programming
 | Problem   | Solution   
 :-         |   :-: 
 [300 Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [DP + binary search(C++)](https://github.com/Yukinichi/leetcode/blob/master/300.longest-increasing-subsequence.cpp)
 [354 Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Binary Search+DP(思路同lc300)](https://github.com/Yukinichi/leetcode/blob/master/354.russian-doll-envelopes.java)
+
+## Fenwick Tree / Binary Indexed Tree(BIT)
+| Problem   | Solution   
+:-         |   :-: 
+[315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [C++ Solution](https://github.com/Yukinichi/leetcode/blob/master/315.count-of-smaller-numbers-after-self.cpp)
+
+
+## Greedy
+| Problem   | Solution   
+:-         |   :-: 
+[55 Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/55.jump-game.java)
+
+## Iterator
+| Problem   | Solution   
+:-         |   :-: 
+[341 Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [List Iterator](https://github.com/Yukinichi/leetcode/blob/master/341.flatten-nested-list-iterator.java)
 
 
 ## Math
@@ -20,22 +48,11 @@
 [43 Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/43.multiply-strings.java)
 [50 Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/50.pow-x-n.java)
 
-## Array
+
+## Monotonic Queue
 | Problem   | Solution   
 :-         |   :-: 
-[48 Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/48.rotate-image.java)
-[54 Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [注意半边之后要重新判断](https://github.com/Yukinichi/leetcode/blob/master/54.spiral-matrix.java)
-
-## Greedy
-| Problem   | Solution   
-:-         |   :-: 
-[55 Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/55.jump-game.java)
-
-
-## TreeMap(Ordered Map)
-| Problem   | Solution   
-:-         |   :-: 
-[846 Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | [注意follow up](https://github.com/Yukinichi/leetcode/blob/master/846.hand-of-straights.java)
+[862 Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [Monotonic Queue + Sliding Window](https://github.com/Yukinichi/leetcode/blob/master/862.shortest-subarray-with-sum-at-least-k.java)
 
 ## Search
 | Problem   | Solution   
@@ -55,23 +72,10 @@
 :-         |   :-: 
 [1110 Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/1110.delete-nodes-and-return-forest.java)
 
-## Binary Search Tree(BST)   
+## TreeMap(Ordered Map)
 | Problem   | Solution   
 :-         |   :-: 
-[315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Java Solution](https://github.com/Yukinichi/leetcode/blob/master/315.count-of-smaller-numbers-after-self.java)
-[1008 Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [递归O(n)解](https://github.com/Yukinichi/leetcode/blob/master/1008.construct-binary-search-tree-from-preorder-traversal.java)
+[846 Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | [注意follow up](https://github.com/Yukinichi/leetcode/blob/master/846.hand-of-straights.java)
 
-## Fenwick Tree / Binary Indexed Tree(BIT)
-| Problem   | Solution   
-:-         |   :-: 
-[315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [C++ Solution](https://github.com/Yukinichi/leetcode/blob/master/315.count-of-smaller-numbers-after-self.cpp)
 
-## Monotonic Queue
-| Problem   | Solution   
-:-         |   :-: 
-[862 Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [Monotonic Queue + Sliding Window](https://github.com/Yukinichi/leetcode/blob/master/862.shortest-subarray-with-sum-at-least-k.java)
 
-## Iterator
-| Problem   | Solution   
-:-         |   :-: 
-[341 Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [List Iterator](https://github.com/Yukinichi/leetcode/blob/master/341.flatten-nested-list-iterator.java)
