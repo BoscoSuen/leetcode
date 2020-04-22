@@ -31,6 +31,12 @@
 :-         |   :-: 
 [55 Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/55.jump-game.java)
 
+
+## TreeMap(Ordered Map)
+| Problem   | Solution   
+:-         |   :-: 
+[846 Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | [注意follow up](https://github.com/Yukinichi/leetcode/blob/master/846.hand-of-straights.java)
+
 ## Search
 | Problem   | Solution   
 :-         |   :-: 
@@ -42,11 +48,18 @@
 | Problem   | Solution   
 :-         |   :-: 
 [76 Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Java Solution](https://github.com/Yukinichi/leetcode/blob/master/76.minimum-window-substring.java)
+[560 Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [有负数不能用two pointer做sliding window, 换成hashmap的变种](https://github.com/Yukinichi/leetcode/blob/master/560.subarray-sum-equals-k.java)
+
+## Tree   
+| Problem   | Solution   
+:-         |   :-: 
+[1110 Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/1110.delete-nodes-and-return-forest.java)
 
 ## Binary Search Tree(BST)   
 | Problem   | Solution   
 :-         |   :-: 
 [315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Java Solution](https://github.com/Yukinichi/leetcode/blob/master/315.count-of-smaller-numbers-after-self.java)
+[1008 Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [递归O(n)解](https://github.com/Yukinichi/leetcode/blob/master/1008.construct-binary-search-tree-from-preorder-traversal.java)
 
 ## Fenwick Tree / Binary Indexed Tree(BIT)
 | Problem   | Solution   
