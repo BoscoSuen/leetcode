@@ -6,24 +6,27 @@
 [48 Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/48.rotate-image.java)
 [54 Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [注意半边之后要重新判断](https://github.com/Yukinichi/leetcode/blob/master/54.spiral-matrix.java)
 
-## Binary Search
+## Binary Search    
 | Problem   | Solution   
-:-         |   :-: 
-[33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)          | [Solution](https://github.com/Yukinichi/leetcode/blob/master/33.search-in-rotated-sorted-array.java)
+:-         |   :-:  
+[33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)          | [Solution](https://github.com/Yukinichi/leetcode/blob/master/33.search-in-rotated-sorted-array.java)  
 [81 Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [多考虑重复的情况](https://github.com/Yukinichi/leetcode/blob/master/81.search-in-rotated-sorted-array-ii.java)
 [34 Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/34.find-first-and-last-position-of-element-in-sorted-array.java)
 
 ## Binary Search Tree(BST)   
 | Problem   | Solution   
 :-         |   :-: 
-[315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Java Solution](https://github.com/Yukinichi/leetcode/blob/master/315.count-of-smaller-numbers-after-self.java)
+[315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Java Solution](https://github.com/Yukinichi/leetcode/blob/master/315.count-of-smaller-numbers-after-self.java) 
 [1008 Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [递归O(n)解](https://github.com/Yukinichi/leetcode/blob/master/1008.construct-binary-search-tree-from-preorder-traversal.java)
+
 
 ## Dynamic Programming
 | Problem   | Solution   
 :-         |   :-: 
 [300 Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [DP + binary search(C++)](https://github.com/Yukinichi/leetcode/blob/master/300.longest-increasing-subsequence.cpp)
 [354 Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Binary Search+DP(思路同lc300)](https://github.com/Yukinichi/leetcode/blob/master/354.russian-doll-envelopes.java)
+[1320 Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [dfs+memorization](https://github.com/Yukinichi/leetcode/blob/master/1320.minimum-distance-to-type-a-word-using-two-fingers.java)
+
 
 ## Fenwick Tree / Binary Indexed Tree(BIT)
 | Problem   | Solution   
@@ -53,6 +56,11 @@
 | Problem   | Solution   
 :-         |   :-: 
 [862 Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [Monotonic Queue + Sliding Window](https://github.com/Yukinichi/leetcode/blob/master/862.shortest-subarray-with-sum-at-least-k.java)
+
+## OOD 
+| Problem   | Solution   
+:-         |   :-: 
+[146 LRU Cache](https://leetcode.com/problems/lru-cache/) | [HashMap + Doubly Linked List]()
 
 ## Search
 | Problem   | Solution   
