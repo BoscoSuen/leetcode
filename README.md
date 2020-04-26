@@ -26,6 +26,8 @@
 [300 Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [DP + binary search(C++)](https://github.com/Yukinichi/leetcode/blob/master/300.longest-increasing-subsequence.cpp)
 [354 Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Binary Search+DP(思路同lc300)](https://github.com/Yukinichi/leetcode/blob/master/354.russian-doll-envelopes.java)
 [1320 Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [dfs+memorization](https://github.com/Yukinichi/leetcode/blob/master/1320.minimum-distance-to-type-a-word-using-two-fingers.java)
+[221 Maximal Square](https://leetcode.com/problems/maximal-square/) | [从对应边长找状态转移方程](https://github.com/Yukinichi/leetcode/blob/master/221.maximal-square.java)
+[1143 Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [LCS问题](https://github.com/Yukinichi/leetcode/blob/master/1143.longest-common-subsequence.java)
 
 
 ## Fenwick Tree / Binary Indexed Tree(BIT)
