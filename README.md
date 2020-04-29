@@ -35,6 +35,10 @@
 :-         |   :-: 
 [315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [C++ Solution](https://github.com/Yukinichi/leetcode/blob/master/315.count-of-smaller-numbers-after-self.cpp)
 
+## Graph
+| Problem   | Solution   
+:-         |   :-: 
+[743 Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Dijkstra](https://github.com/Yukinichi/leetcode/blob/master/743.network-delay-time.java)
 
 ## Greedy
 | Problem   | Solution   
