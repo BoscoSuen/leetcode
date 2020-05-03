@@ -39,6 +39,8 @@
 | Problem   | Solution   
 :-         |   :-: 
 [743 Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Dijkstra](https://github.com/Yukinichi/leetcode/blob/master/743.network-delay-time.java)
+[1334 Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [Dijkstra]()
+[1192 Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [todo]()
 
 ## Greedy
 | Problem   | Solution   
