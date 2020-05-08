@@ -68,7 +68,7 @@
 ## OOD 
 | Problem   | Solution   
 :-         |   :-: 
-[146 LRU Cache](https://leetcode.com/problems/lru-cache/) | [HashMap + Doubly Linked List]()
+[146 LRU Cache](https://leetcode.com/problems/lru-cache/) | [HashMap + Doubly Linked List](https://github.com/Yukinichi/leetcode/blob/master/146.lru-cache.java)
 [1146 Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [list数组 or TreeMap](https://github.com/Yukinichi/leetcode/blob/master/1146.snapshot-array.java)
 
 ## Search
