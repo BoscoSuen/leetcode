@@ -12,6 +12,7 @@
 [33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)          | [Solution](https://github.com/Yukinichi/leetcode/blob/master/33.search-in-rotated-sorted-array.java)  
 [81 Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [多考虑重复的情况](https://github.com/Yukinichi/leetcode/blob/master/81.search-in-rotated-sorted-array-ii.java)
 [34 Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/34.find-first-and-last-position-of-element-in-sorted-array.java)
+[1268 Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [lower_bound&upper_bound, use emplace_back](https://github.com/Yukinichi/leetcode/blob/master/1268.search-suggestions-system.cpp)
 
 ## Binary Search Tree(BST)   
 | Problem   | Solution   
@@ -68,7 +69,7 @@
 ## OOD 
 | Problem   | Solution   
 :-         |   :-: 
-[146 LRU Cache](https://leetcode.com/problems/lru-cache/) | [HashMap + Doubly Linked List](https://github.com/Yukinichi/leetcode/blob/master/146.lru-cache.java),[LinkedHashMap](https://github.com/Yukinichi/leetcode/blob/master/146.lru-cache-solution2.java)
+[146 LRU Cache](https://leetcode.com/problems/lru-cache/) | [HashMap + Doubly Linked List](https://github.com/Yukinichi/leetcode/blob/master/146.lru-cache.java); [Java LinkedHashMap](https://github.com/Yukinichi/leetcode/blob/master/146.lru-cache-solution2.java)
 [1146 Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [list数组 or TreeMap](https://github.com/Yukinichi/leetcode/blob/master/1146.snapshot-array.java)
 
 ## Search
@@ -94,5 +95,8 @@
 :-         |   :-: 
 [846 Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | [注意follow up](https://github.com/Yukinichi/leetcode/blob/master/846.hand-of-straights.java)
 
-
-
+## Trie
+| Problem   | Solution   
+:-         |   :-: 
+[208 Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Trie模版](https://github.com/Yukinichi/leetcode/blob/master/208.implement-trie-prefix-tree)
+[1268 Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [Trie]()
