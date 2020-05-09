@@ -34,9 +34,9 @@ Example Question: [leetcode 5.Longest Palindromic Substring](https://leetcode.co
 ![](./files/manacher_6.jpg)  
 此时的 P [ i ] 求出来将会是 3 ，P [ i ] 对应的右边界将是 10 + 3 = 13，所以大于当前的 R ，我们需要把 C 更新成 i 的值，也就是 10 ，R 更新成 13。继续下边的循环。
 
-### Solution
+### **Solution**
 C++:
-```
+```cpp
 class Solution {
 public:
     string longestPalindrome(string s) {
