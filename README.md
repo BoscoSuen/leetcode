@@ -98,5 +98,5 @@
 ## Trie
 | Problem   | Solution   
 :-         |   :-: 
-[208 Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Trie模版](https://github.com/Yukinichi/leetcode/blob/master/Java/208.implement-trie-prefix-tree)
+[208 Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Trie模版](https://github.com/Yukinichi/leetcode/blob/master/Java/208.implement-trie-prefix-tree.java)
 [1268 Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [Trie](https://github.com/Yukinichi/leetcode/blob/master/Java/1268.search-suggestions-system.java)
