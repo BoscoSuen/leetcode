@@ -4,7 +4,7 @@
 | Problem   | Solution   
 :-         |   :-: 
 [48 Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/48.rotate-image.java)
-[54 Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [注意半边之后要重新判断](https://github.com/Yukinichi/leetcode/blob/Java/master/54.spiral-matrix.java)
+[54 Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [注意半边之后要重新判断](https://github.com/Yukinichi/leetcode/blob/master/Java/54.spiral-matrix.java)
 
 ## Binary Search    
 | Problem   | Solution   
