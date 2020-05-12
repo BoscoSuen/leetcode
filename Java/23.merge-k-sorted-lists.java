@@ -17,6 +17,8 @@
  */
 /*
 divide and conquer
+Time: O(Nlogk) where k is the number of linked lists.
+space : O(1)
 */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
