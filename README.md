@@ -48,6 +48,7 @@
 | Problem   | Solution   
 :-         |   :-: 
 [55 Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/55.jump-game.java)
+[763 Partition Labels](https://leetcode.com/problems/partition-labels/) | [greedy + two pointer](https://github.com/Yukinichi/leetcode/blob/master/Java/763.partition-labels.java)
 
 ## Iterator
 | Problem   | Solution   
