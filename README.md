@@ -25,6 +25,7 @@
 | Problem   | Solution   
 :-         |   :-: 
 [5 Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Manacher's Algorithm](https://github.com/Yukinichi/leetcode/blob/master/Note/Manacher_Algorithm.md)
+[42 trapping rain water](https://leetcode.com/problems/trapping-rain-water/) | [DP优化为two pointer](https://github.com/Yukinichi/leetcode/blob/master/Java/42.trapping-rain-water.java)
 [300 Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [DP + binary search(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/300.longest-increasing-subsequence.cpp)
 [354 Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Binary Search+DP(思路同lc300)](https://github.com/Yukinichi/leetcode/blob/master/Java/354.russian-doll-envelopes.java)
 [1320 Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [dfs+memorization](https://github.com/Yukinichi/leetcode/blob/master/Java/1320.minimum-distance-to-type-a-word-using-two-fingers.java)
@@ -66,6 +67,7 @@
 ## Monotonic Queue
 | Problem   | Solution   
 :-         |   :-: 
+[402 Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Monotonic Stack](https://github.com/Yukinichi/leetcode/blob/master/Java/402.remove-k-digits.java)
 [862 Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [Monotonic Queue + Sliding Window](https://github.com/Yukinichi/leetcode/blob/master/Java/862.shortest-subarray-with-sum-at-least-k.java)
 
 ## OOD 
