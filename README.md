@@ -82,6 +82,7 @@
 [60 Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [找到确定每个位置的数字的规律](https://github.com/Yukinichi/leetcode/blob/master/Java/60.permutation-sequence.java)
 [127 Word Ladder](https://leetcode.com/problems/word-ladder/) | [双向BFS](https://github.com/Yukinichi/leetcode/blob/master/Java/127.word-ladder.java)
 [126 Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | [双向BFS + DFS + path建图(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/126.word-ladder-ii.java), [单向BFS(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/126.word-ladder-ii.cpp)
+[140 Word Break II](https://leetcode.com/problems/word-break-ii/) | [DFS + memo](https://github.com/Yukinichi/leetcode/blob/master/Java/140.word-break-ii.java)
 [472 Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [DFS + memo Solution(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/472.concatenated-words.cpp); [Trie Solution(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/472.concatenated-words.java)
 
 ## Sliding Window
