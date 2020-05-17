@@ -21,6 +21,8 @@
 [1008 Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [递归O(n)解](https://github.com/Yukinichi/leetcode/blob/master/Java/1008.construct-binary-search-tree-from-preorder-traversal.java)
 
 
+[1239 Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [bit and找intersection优化combination问题](https://github.com/Yukinichi/leetcode/blob/master/Java/1239.maximum-length-of-a-concatenated-string-with-unique-characters.java)
+
 ## Dynamic Programming
 | Problem   | Solution   
 :-         |   :-: 
@@ -89,6 +91,7 @@
 | Problem   | Solution   
 :-         |   :-: 
 [76 Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Java Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/76.minimum-window-substring.java)
+[438 Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Sliding window + hashmap模版](https://github.com/Yukinichi/leetcode/blob/master/Java/438.find-all-anagrams-in-a-string.java)
 [560 Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [有负数不能用two pointer做sliding window, 换成hashmap的变种](https://github.com/Yukinichi/leetcode/blob/master/Java/560.subarray-sum-equals-k.java)
 
 ## Tree   
@@ -105,5 +108,6 @@
 | Problem   | Solution   
 :-         |   :-: 
 [208 Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Trie模版](https://github.com/Yukinichi/leetcode/blob/master/Java/208.implement-trie-prefix-tree.java)
+[212 Word Search II](https://leetcode.com/problems/word-search-ii/) | [Dfs + Trie剪枝](https://github.com/Yukinichi/leetcode/blob/master/Java/212.word-search-ii.java)
 [472 Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [Trie Solution(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/472.concatenated-words.java); [DFS + memo Solution(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/472.concatenated-words.cpp)
 [1268 Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [Trie](https://github.com/Yukinichi/leetcode/blob/master/Java/1268.search-suggestions-system.java)
