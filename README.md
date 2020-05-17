@@ -23,7 +23,7 @@
 ## Bit Manipulation  
 | Problem   | Solution   
 :-         |   :-: 
-[1239 Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [bit and找intersection优化combination问题](https://github.com/Yukinichi/leetcode/blob/master/Java/1239.maximum-length-of-a-concatenated-string-with-unique-characters.java)
+[1239 Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [bit and找intersection优化combination问题](https://github.com/Yukinichi/leetcode/blob/master/Java/1239.maximum-length-of-a-concatenated-string-with-unique-characters.java), [C++ bitset](https://github.com/Yukinichi/leetcode/blob/master/Cpp/1239.maximum-length-of-a-concatenated-string-with-unique-characters.cpp)
 
 ## Dynamic Programming
 | Problem   | Solution   
