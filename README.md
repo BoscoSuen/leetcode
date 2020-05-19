@@ -12,6 +12,7 @@
 [33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)          | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/33.search-in-rotated-sorted-array.java)  
 [81 Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [多考虑重复的情况](https://github.com/Yukinichi/leetcode/blob/master/Java/81.search-in-rotated-sorted-array-ii.java)
 [34 Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/34.find-first-and-last-position-of-element-in-sorted-array.java)
+[1044 Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | [String Hashing(Rabin Karp's Algorithm) + Binary Search](https://github.com/Yukinichi/leetcode/blob/master/Java/1044.longest-duplicate-substring.java)
 [1268 Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [lower_bound&upper_bound, use emplace_back](https://github.com/Yukinichi/leetcode/blob/master/Cpp/1268.search-suggestions-system.cpp)
 
 ## Binary Search Tree(BST)   
