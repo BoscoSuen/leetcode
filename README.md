@@ -72,6 +72,8 @@
 ## Monotonic Queue
 | Problem   | Solution   
 :-         |   :-: 
+[84 Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Monotinic Stack](https://github.com/Yukinichi/leetcode/blob/master/Java/84.largest-rectangle-in-histogram.java)
+[85 Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [思路同84](https://github.com/Yukinichi/leetcode/blob/master/Java/85.maximal-rectangle.java)
 [402 Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Monotonic Stack](https://github.com/Yukinichi/leetcode/blob/master/Java/402.remove-k-digits.java)
 [862 Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [Monotonic Queue + Sliding Window](https://github.com/Yukinichi/leetcode/blob/master/Java/862.shortest-subarray-with-sum-at-least-k.java)
 
