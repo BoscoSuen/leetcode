@@ -101,6 +101,11 @@
 [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Sliding window + hashmap模版](https://github.com/Yukinichi/leetcode/blob/master/Java/438.find-all-anagrams-in-a-string.java)
 [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [有负数不能用two pointer做sliding window, 换成hashmap的变种](https://github.com/Yukinichi/leetcode/blob/master/Java/560.subarray-sum-equals-k.java)
 
+## Quick Select(TopK)
+| Problem   | Solution   
+:-         |   :-: 
+[973 K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Quick Select](https://github.com/Yukinichi/leetcode/blob/master/Java/973.k-closest-points-to-origin.java)
+
 ## Tree   
 | Problem   | Solution   
 :-         |   :-: 
