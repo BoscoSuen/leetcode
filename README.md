@@ -58,6 +58,7 @@
 :-         |   :-: 
 [55. Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/55.jump-game.java)
 [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | [greedy + two pointer](https://github.com/Yukinichi/leetcode/blob/master/Java/763.partition-labels.java)
+[1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Greedy](https://github.com/Yukinichi/leetcode/blob/master/Java/1029.two-city-scheduling.java); [DP](https://github.com/Yukinichi/leetcode/blob/master/Cpp/1029.two-city-scheduling.cpp)
 
 ## Iterator
 | Problem   | Solution   
