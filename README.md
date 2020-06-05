@@ -87,6 +87,11 @@
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | [HashMap + Doubly Linked List](https://github.com/Yukinichi/leetcode/blob/master/Java/146.lru-cache.java); [Java LinkedHashMap](https://github.com/Yukinichi/leetcode/blob/master/Java/146.lru-cache-solution2.java)
 [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [list数组 or TreeMap](https://github.com/Yukinichi/leetcode/blob/master/Java/1146.snapshot-array.java)
 
+## Random
+| Problem   | Solution   
+:-         |   :-: 
+[528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [Random + binarySeach](https://github.com/Yukinichi/leetcode/blob/master/Java/528.random-pick-with-weight.java)
+
 ## Search
 | Problem   | Solution   
 :-         |   :-: 
@@ -125,3 +130,6 @@
 [212. Word Search II](https://leetcode.com/problems/word-search-ii/) | [Dfs + Trie剪枝](https://github.com/Yukinichi/leetcode/blob/master/Java/212.word-search-ii.java)
 [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [Trie Solution(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/472.concatenated-words.java); [DFS + memo Solution(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/472.concatenated-words.cpp)
 [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [Trie](https://github.com/Yukinichi/leetcode/blob/master/Java/1268.search-suggestions-system.java)
+
+## Union Find
+[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Union Find](https://github.com/Yukinichi/leetcode/blob/master/Java/695.max-area-of-island.java); [DFS](https://github.com/Yukinichi/leetcode/blob/master/Cpp/695.max-area-of-island.cpp)
