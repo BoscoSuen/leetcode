@@ -85,6 +85,7 @@
 | Problem   | Solution   
 :-         |   :-: 
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | [HashMap + Doubly Linked List](https://github.com/Yukinichi/leetcode/blob/master/Java/146.lru-cache.java); [Java LinkedHashMap](https://github.com/Yukinichi/leetcode/blob/master/Java/146.lru-cache-solution2.java)
+[706. Design HashMap](https://leetcode.com/problems/design-hashmap/) | [linkedlist handle hashing collision](https://github.com/Yukinichi/leetcode/blob/master/Java/706.design-hash-map.java)
 [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [list数组 or TreeMap](https://github.com/Yukinichi/leetcode/blob/master/Java/1146.snapshot-array.java)
 
 ## Random
@@ -107,6 +108,11 @@
 [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Java Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/76.minimum-window-substring.java)
 [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Sliding window + hashmap模版](https://github.com/Yukinichi/leetcode/blob/master/Java/438.find-all-anagrams-in-a-string.java)
 [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [有负数不能用two pointer做sliding window, 换成hashmap的变种](https://github.com/Yukinichi/leetcode/blob/master/Java/560.subarray-sum-equals-k.java)
+
+## Knapsack problem
+| Problem   | Solution   
+:-         |   :-: 
+[518. Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [dp](https://github.com/Yukinichi/leetcode/blob/master/Java/518.coin-change-2.java)
 
 ## Quick Select(TopK)
 | Problem   | Solution   
