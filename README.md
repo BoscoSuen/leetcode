@@ -30,10 +30,13 @@
 | Problem   | Solution   
 :-         |   :-: 
 [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Manacher's Algorithm](https://github.com/Yukinichi/leetcode/blob/master/Note/Manacher_Algorithm.md)
+[10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [字符串匹配类dp](https://github.com/Yukinichi/leetcode/blob/master/Java/10.regular-expression-matching.java)
 [42. trapping rain water](https://leetcode.com/problems/trapping-rain-water/) | [DP优化为two pointer](https://github.com/Yukinichi/leetcode/blob/master/Java/42.trapping-rain-water.java)
 [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/72.edit-distance.java)
 [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [DP + binary search(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/300.longest-increasing-subsequence.cpp)
 [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Binary Search+DP(思路同lc300)](https://github.com/Yukinichi/leetcode/blob/master/Java/354.russian-doll-envelopes.java)
+[518. Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Unbounded Knapsack Problem(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/518.coin-change-2.cpp); [优化为1维数组(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/518.coin-change-2.java)
+[688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | [dfs + memo算概率](https://github.com/Yukinichi/leetcode/blob/master/Java/688.knight-probability-in-chessboard.java)
 [1320. Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [dfs+memorization](https://github.com/Yukinichi/leetcode/blob/master/Java/1320.minimum-distance-to-type-a-word-using-two-fingers.java)
 [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | [从对应边长找状态转移方程](https://github.com/Yukinichi/leetcode/blob/master/Java/221.maximal-square.java)
 [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [LCS问题](https://github.com/Yukinichi/leetcode/blob/master/Java/1143.longest-common-subsequence.java)
@@ -102,6 +105,7 @@
 [140. Word Break II](https://leetcode.com/problems/word-break-ii/) | [DFS + memo](https://github.com/Yukinichi/leetcode/blob/master/Java/140.word-break-ii.java)
 [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [DFS + memo Solution(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/472.concatenated-words.cpp); [Trie Solution(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/472.concatenated-words.java)
 
+
 ## Sliding Window
 | Problem   | Solution   
 :-         |   :-: 
@@ -109,10 +113,7 @@
 [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Sliding window + hashmap模版](https://github.com/Yukinichi/leetcode/blob/master/Java/438.find-all-anagrams-in-a-string.java)
 [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [有负数不能用two pointer做sliding window, 换成hashmap的变种](https://github.com/Yukinichi/leetcode/blob/master/Java/560.subarray-sum-equals-k.java)
 
-## Knapsack problem
-| Problem   | Solution   
-:-         |   :-: 
-[518. Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [dp](https://github.com/Yukinichi/leetcode/blob/master/Java/518.coin-change-2.java)
+
 
 ## Quick Select(TopK)
 | Problem   | Solution   
