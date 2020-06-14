@@ -52,8 +52,9 @@
 | Problem   | Solution   
 :-         |   :-: 
 [207 Course Schedule](https://leetcode.com/problems/course-schedule/) | [Topological Sort](https://github.com/Yukinichi/leetcode/blob/master/Java/207.course-schedule.java)
-[743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Dijkstra](https://github.com/Yukinichi/leetcode/blob/master/Java/743.network-delay-time.java)
 [886 Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [Graph Coloring](https://github.com/Yukinichi/leetcode/blob/master/Java/886.possible-bipartition.java)
+[743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Dijkstra](https://github.com/Yukinichi/leetcode/blob/master/Java/743.network-delay-time.java)
+[787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [Dijkstra](https://github.com/Yukinichi/leetcode/blob/master/Java/787.cheapest-flights-within-k-stops.java)
 [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [Dijkstra]()
 [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [todo]()
 
