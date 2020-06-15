@@ -70,6 +70,10 @@
 :-         |   :-: 
 [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [List Iterator](https://github.com/Yukinichi/leetcode/blob/master/Java/341.flatten-nested-list-iterator.java)
 
+## Linked-List
+| Problem   | Solution   
+:-         |   :-: 
+[148. Sort List](https://leetcode.com/problems/sort-list/) | [merge sort](https://github.com/Yukinichi/leetcode/blob/master/Cpp/148.sort-list.cpp); [O(1) Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/148.sort-list.java)
 
 ## Math
 | Problem   | Solution   
