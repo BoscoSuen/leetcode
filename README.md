@@ -120,6 +120,10 @@
 [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [有负数不能用two pointer做sliding window, 换成hashmap的变种](https://github.com/Yukinichi/leetcode/blob/master/Java/560.subarray-sum-equals-k.java)
 
 
+## String
+| Problem   | Solution   
+:-         |   :-: 
+[468.Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [String split, NumberFormatException](https://github.com/Yukinichi/leetcode/blob/master/Java/468.validate-ip-address.java)
 
 ## Quick Select(TopK)
 | Problem   | Solution   
