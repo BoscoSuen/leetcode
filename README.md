@@ -53,6 +53,7 @@
 :-         |   :-: 
 [207 Course Schedule](https://leetcode.com/problems/course-schedule/) | [Topological Sort](https://github.com/Yukinichi/leetcode/blob/master/Java/207.course-schedule.java)
 [886 Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [Graph Coloring](https://github.com/Yukinichi/leetcode/blob/master/Java/886.possible-bipartition.java)
+[934.Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | [Graph coloring: dfs + bfs](https://github.com/Yukinichi/leetcode/blob/master/Java/934.shortest-bridge.java)
 [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Dijkstra](https://github.com/Yukinichi/leetcode/blob/master/Java/743.network-delay-time.java)
 [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [Dijkstra](https://github.com/Yukinichi/leetcode/blob/master/Java/787.cheapest-flights-within-k-stops.java)
 [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [Dijkstra]()
@@ -73,7 +74,7 @@
 ## Linked-List
 | Problem   | Solution   
 :-         |   :-: 
-[148. Sort List](https://leetcode.com/problems/sort-list/) | [merge sort](https://github.com/Yukinichi/leetcode/blob/master/Cpp/148.sort-list.cpp); [O(1) Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/148.sort-list.java)
+[148. Sort List](https://leetcode.com/problems/sort-list/) | [merge sort](https://github.com/Yukinichi/leetcode/blob/master/Cpp/148.sort-list.cpp); [space O(1) Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/148.sort-list.java)
 
 ## Math
 | Problem   | Solution   
