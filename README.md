@@ -24,7 +24,7 @@
 ## Bit Manipulation  
 | Problem   | Solution   
 :-         |   :-: 
-[1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [bit and找intersection优化combination问题](https://github.com/Yukinichi/leetcode/blob/master/Java/1239.maximum-length-of-a-concatenated-string-with-unique-characters.java), [C++ bitset](https://github.com/Yukinichi/leetcode/blob/master/Cpp/1239.maximum-length-of-a-concatenated-string-with-unique-characters.cpp)
+[1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [bit and找intersection优化combination问题](https://github.com/Yukinichi/leetcode/blob/master/Java/1239.maximum-length-of-a-concatenated-string-with-unique-characters.java) \| [C++ bitset](https://github.com/Yukinichi/leetcode/blob/master/Cpp/1239.maximum-length-of-a-concatenated-string-with-unique-characters.cpp)
 
 ## Dynamic Programming
 | Problem   | Solution   
@@ -36,7 +36,7 @@
 [300. Longest Increasing Subsequence(LIS)](https://leetcode.com/problems/longest-increasing-subsequence/) | [DP + binary search(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/300.longest-increasing-subsequence.cpp)
 [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [LIS问题变种](https://github.com/Yukinichi/leetcode/blob/master/Java/368.largest-divisible-subset.java)
 [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Binary Search+DP(思路同lc300)](https://github.com/Yukinichi/leetcode/blob/master/Java/354.russian-doll-envelopes.java)
-[518. Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Unbounded Knapsack Problem(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/518.coin-change-2.cpp); [优化为1维数组(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/518.coin-change-2.java)
+[518. Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Unbounded Knapsack Problem(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/518.coin-change-2.cpp) \| [优化为1维数组(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/518.coin-change-2.java)
 [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | [dfs + memo算概率](https://github.com/Yukinichi/leetcode/blob/master/Java/688.knight-probability-in-chessboard.java)
 [1320. Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [dfs+memorization](https://github.com/Yukinichi/leetcode/blob/master/Java/1320.minimum-distance-to-type-a-word-using-two-fingers.java)
 [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | [从对应边长找状态转移方程](https://github.com/Yukinichi/leetcode/blob/master/Java/221.maximal-square.java)
@@ -64,7 +64,7 @@
 :-         |   :-: 
 [55. Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/55.jump-game.java)
 [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | [greedy + two pointer](https://github.com/Yukinichi/leetcode/blob/master/Java/763.partition-labels.java)
-[1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Greedy](https://github.com/Yukinichi/leetcode/blob/master/Java/1029.two-city-scheduling.java); [DP](https://github.com/Yukinichi/leetcode/blob/master/Cpp/1029.two-city-scheduling.cpp)
+[1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Greedy](https://github.com/Yukinichi/leetcode/blob/master/Java/1029.two-city-scheduling.java) \| [DP](https://github.com/Yukinichi/leetcode/blob/master/Cpp/1029.two-city-scheduling.cpp)
 
 ## Iterator
 | Problem   | Solution   
@@ -74,7 +74,7 @@
 ## Linked-List
 | Problem   | Solution   
 :-         |   :-: 
-[148. Sort List](https://leetcode.com/problems/sort-list/) | [merge sort](https://github.com/Yukinichi/leetcode/blob/master/Cpp/148.sort-list.cpp); [space O(1) Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/148.sort-list.java)
+[148. Sort List](https://leetcode.com/problems/sort-list/) | [merge sort](https://github.com/Yukinichi/leetcode/blob/master/Cpp/148.sort-list.cpp) \| [space O(1) Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/148.sort-list.java)
 
 ## Math
 | Problem   | Solution   
@@ -94,8 +94,8 @@
 ## OOD 
 | Problem   | Solution   
 :-         |   :-: 
-[146. LRU Cache](https://leetcode.com/problems/lru-cache/) | [HashMap + Doubly Linked List](https://github.com/Yukinichi/leetcode/blob/master/Java/146.lru-cache.java); [Java LinkedHashMap](https://github.com/Yukinichi/leetcode/blob/master/Java/146.lru-cache-solution2.java)
-[460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | [HashMap + TreeSet(Ologn)](https://github.com/Yukinichi/leetcode/blob/master/Java/460.lfu-cache.java); [HashMap + DList(O(1))](https://github.com/Yukinichi/leetcode/blob/master/Java/460.lfu-cache-2.java)
+[146. LRU Cache](https://leetcode.com/problems/lru-cache/) | [HashMap + Doubly Linked List](https://github.com/Yukinichi/leetcode/blob/master/Java/146.lru-cache.java) \| [Java LinkedHashMap](https://github.com/Yukinichi/leetcode/blob/master/Java/146.lru-cache-solution2.java)
+[460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | [HashMap + TreeSet(Ologn)](https://github.com/Yukinichi/leetcode/blob/master/Java/460.lfu-cache.java) \| [HashMap + DList(O(1))](https://github.com/Yukinichi/leetcode/blob/master/Java/460.lfu-cache-2.java)
 [706. Design HashMap](https://leetcode.com/problems/design-hashmap/) | [linkedlist handle hashing collision](https://github.com/Yukinichi/leetcode/blob/master/Java/706.design-hash-map.java)
 [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [list数组 or TreeMap](https://github.com/Yukinichi/leetcode/blob/master/Java/1146.snapshot-array.java)
 
@@ -110,9 +110,9 @@
 [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [找到确定每个位置的数字的规律](https://github.com/Yukinichi/leetcode/blob/master/Java/60.permutation-sequence.java)
 [90.subsets II](https://leetcode.com/problems/subsets-ii/) | [subset去重](https://github.com/Yukinichi/leetcode/blob/master/Java/90.subsets-ii.java)
 [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | [双向BFS](https://github.com/Yukinichi/leetcode/blob/master/Java/127.word-ladder.java)
-[126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | [双向BFS + DFS + path建图(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/126.word-ladder-ii.java), [单向BFS(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/126.word-ladder-ii.cpp)
+[126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | [双向BFS + DFS + path建图(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/126.word-ladder-ii.java) \| [单向BFS(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/126.word-ladder-ii.cpp)
 [140. Word Break II](https://leetcode.com/problems/word-break-ii/) | [DFS + memo](https://github.com/Yukinichi/leetcode/blob/master/Java/140.word-break-ii.java)
-[472. Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [DFS + memo Solution(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/472.concatenated-words.cpp); [Trie Solution(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/472.concatenated-words.java)
+[472. Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [DFS + memo Solution(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/472.concatenated-words.cpp) \| [Trie Solution(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/472.concatenated-words.java)
 
 
 ## Sliding Window
@@ -148,10 +148,10 @@
 :-         |   :-: 
 [208. Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Trie模版](https://github.com/Yukinichi/leetcode/blob/master/Java/208.implement-trie-prefix-tree.java)
 [212. Word Search II](https://leetcode.com/problems/word-search-ii/) | [Dfs + Trie剪枝](https://github.com/Yukinichi/leetcode/blob/master/Java/212.word-search-ii.java)
-[472. Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [Trie Solution(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/472.concatenated-words.java); [DFS + memo Solution(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/472.concatenated-words.cpp)
+[472. Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [Trie Solution(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/472.concatenated-words.java) \| [DFS + memo Solution(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/472.concatenated-words.cpp)
 [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [Trie](https://github.com/Yukinichi/leetcode/blob/master/Java/1268.search-suggestions-system.java)
 
 ## Union Find
 | Problem   | Solution   
 :-         |   :-: 
-[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Union Find](https://github.com/Yukinichi/leetcode/blob/master/Java/695.max-area-of-island.java); [DFS](https://github.com/Yukinichi/leetcode/blob/master/Cpp/695.max-area-of-island.cpp)
+[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Union Find](https://github.com/Yukinichi/leetcode/blob/master/Java/695.max-area-of-island.java) \| [DFS](https://github.com/Yukinichi/leetcode/blob/master/Cpp/695.max-area-of-island.cpp)
