@@ -63,6 +63,7 @@
 | Problem   | Solution   
 :-         |   :-: 
 [55. Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/55.jump-game.java)
+[135. Candy](https://leetcode.com/problems/candy/) | [一次遍历 spaceO(1)解](https://github.com/Yukinichi/leetcode/blob/master/Java/135.candy.java)
 [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | [greedy + two pointer](https://github.com/Yukinichi/leetcode/blob/master/Java/763.partition-labels.java)
 [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Greedy](https://github.com/Yukinichi/leetcode/blob/master/Java/1029.two-city-scheduling.java) \| [DP](https://github.com/Yukinichi/leetcode/blob/master/Cpp/1029.two-city-scheduling.cpp)
 

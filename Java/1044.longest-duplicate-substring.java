@@ -16,7 +16,7 @@ class Solution {
     space: O(n)
     */
     private static final long p = (1 << 31) - 1;
-    private static final long base = 256;
+    private static final long base = 26;
     private int start = -1;
     public String longestDupSubstring(String S) {
         if (S == null || S.length() == 0) return "";
@@ -34,7 +34,7 @@ class Solution {
     private boolean find(String s, int len) {
         Map<Long, ArrayList<Integer>> map = new HashMap<>();
         long rm = 1l;
-        for (int i = 1; i < len; ++i) rm = (rm * base) % p; 
+        for (int i = 1; i < len; ++i) rm = (rm * base) % p;     // 最高位的base
         long hash = hashing(s, len);    // first substr hash
         map.put(hash, new ArrayList<>());
         map.get(hash).add(0);
