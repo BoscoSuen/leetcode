@@ -24,6 +24,7 @@
 ## Bit Manipulation  
 | Problem   | Solution   
 :-         |   :-: 
+[137. Single Number II](https://leetcode.com/problems/single-number-ii/) | [解决n个重复数字找不同问题](https://github.com/Yukinichi/leetcode/blob/master/Java/137.single-number-ii.java)
 [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [bit and找intersection优化combination问题](https://github.com/Yukinichi/leetcode/blob/master/Java/1239.maximum-length-of-a-concatenated-string-with-unique-characters.java) \| [C++ bitset](https://github.com/Yukinichi/leetcode/blob/master/Cpp/1239.maximum-length-of-a-concatenated-string-with-unique-characters.cpp)
 
 ## Dynamic Programming
@@ -98,6 +99,7 @@
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | [HashMap + Doubly Linked List](https://github.com/Yukinichi/leetcode/blob/master/Java/146.lru-cache.java) \| [Java LinkedHashMap](https://github.com/Yukinichi/leetcode/blob/master/Java/146.lru-cache-solution2.java)
 [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | [HashMap + TreeSet(Ologn)](https://github.com/Yukinichi/leetcode/blob/master/Java/460.lfu-cache.java) \| [HashMap + DList(O(1))](https://github.com/Yukinichi/leetcode/blob/master/Java/460.lfu-cache-2.java)
 [706. Design HashMap](https://leetcode.com/problems/design-hashmap/) | [linkedlist handle hashing collision](https://github.com/Yukinichi/leetcode/blob/master/Java/706.design-hash-map.java)
+[981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [hashMap + binarySearch](https://github.com/Yukinichi/leetcode/blob/master/Java/981.time-based-key-value-store.java)
 [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [list数组 or TreeMap](https://github.com/Yukinichi/leetcode/blob/master/Java/1146.snapshot-array.java)
 
 ## Random
