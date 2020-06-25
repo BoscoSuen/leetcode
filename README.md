@@ -34,6 +34,7 @@
 [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [字符串匹配类dp](https://github.com/Yukinichi/leetcode/blob/master/Java/10.regular-expression-matching.java)
 [42. trapping rain water](https://leetcode.com/problems/trapping-rain-water/) | [DP优化为two pointer](https://github.com/Yukinichi/leetcode/blob/master/Java/42.trapping-rain-water.java)
 [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/72.edit-distance.java)
+[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/96.unique-binary-search-trees.java)
 [300. Longest Increasing Subsequence(LIS)](https://leetcode.com/problems/longest-increasing-subsequence/) | [DP + binary search(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/300.longest-increasing-subsequence.cpp)
 [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [LIS问题变种](https://github.com/Yukinichi/leetcode/blob/master/Java/368.largest-divisible-subset.java)
 [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Binary Search+DP(思路同lc300)](https://github.com/Yukinichi/leetcode/blob/master/Java/354.russian-doll-envelopes.java)
