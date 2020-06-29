@@ -5,6 +5,7 @@
 :-         |   :-: 
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/48.rotate-image.java)
 [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [注意半边之后要重新判断](https://github.com/Yukinichi/leetcode/blob/master/Java/54.spiral-matrix.java)
+[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Binary Search(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/287.find-the-duplicate-number.cpp) \| [Cycle Detection(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/287.find-the-duplicate-number.java)
 
 ## Binary Search    
 | Problem   | Solution   
@@ -40,6 +41,7 @@
 [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Binary Search+DP(思路同lc300)](https://github.com/Yukinichi/leetcode/blob/master/Java/354.russian-doll-envelopes.java)
 [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Unbounded Knapsack Problem(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/518.coin-change-2.cpp) \| [优化为1维数组(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/518.coin-change-2.java)
 [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | [dfs + memo算概率](https://github.com/Yukinichi/leetcode/blob/master/Java/688.knight-probability-in-chessboard.java)
+[741. Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | [转化为两个同时进行的子问题+ dfs + memo](https://github.com/Yukinichi/leetcode/blob/master/Java/741.cherry-pickup.java)
 [1320. Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [dfs+memorization](https://github.com/Yukinichi/leetcode/blob/master/Java/1320.minimum-distance-to-type-a-word-using-two-fingers.java)
 [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | [从对应边长找状态转移方程](https://github.com/Yukinichi/leetcode/blob/master/Java/221.maximal-square.java)
 [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [LCS问题](https://github.com/Yukinichi/leetcode/blob/master/Java/1143.longest-common-subsequence.java)
@@ -54,6 +56,7 @@
 | Problem   | Solution   
 :-         |   :-: 
 [207 Course Schedule](https://leetcode.com/problems/course-schedule/) | [Topological Sort](https://github.com/Yukinichi/leetcode/blob/master/Java/207.course-schedule.java)
+[332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Eularian Path & Hierholzer’s Algorithm](https://github.com/Yukinichi/leetcode/blob/master/Java/332.reconstruct-itinerary.java)
 [886 Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [Graph Coloring](https://github.com/Yukinichi/leetcode/blob/master/Java/886.possible-bipartition.java)
 [934.Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | [Graph coloring: dfs + bfs](https://github.com/Yukinichi/leetcode/blob/master/Java/934.shortest-bridge.java)
 [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Dijkstra](https://github.com/Yukinichi/leetcode/blob/master/Java/743.network-delay-time.java)
