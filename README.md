@@ -55,7 +55,8 @@
 ## Graph
 | Problem   | Solution   
 :-         |   :-: 
-[207 Course Schedule](https://leetcode.com/problems/course-schedule/) | [Topological Sort](https://github.com/Yukinichi/leetcode/blob/master/Java/207.course-schedule.java)
+[207. Course Schedule](https://leetcode.com/problems/course-schedule/) | [Topological Sort](https://github.com/Yukinichi/leetcode/blob/master/Java/207.course-schedule.java)
+[210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Topological Sort](https://github.com/Yukinichi/leetcode/blob/master/Java/210.course-schedule-ii.java)
 [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Eularian Path & Hierholzer’s Algorithm](https://github.com/Yukinichi/leetcode/blob/master/Java/332.reconstruct-itinerary.java)
 [886 Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [Graph Coloring](https://github.com/Yukinichi/leetcode/blob/master/Java/886.possible-bipartition.java)
 [934.Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | [Graph coloring: dfs + bfs](https://github.com/Yukinichi/leetcode/blob/master/Java/934.shortest-bridge.java)
@@ -68,6 +69,7 @@
 | Problem   | Solution   
 :-         |   :-: 
 [55. Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/55.jump-game.java)
+[45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/45.jump-game-ii.java)
 [135. Candy](https://leetcode.com/problems/candy/) | [一次遍历 spaceO(1)解](https://github.com/Yukinichi/leetcode/blob/master/Java/135.candy.java)
 [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | [greedy + two pointer](https://github.com/Yukinichi/leetcode/blob/master/Java/763.partition-labels.java)
 [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Greedy](https://github.com/Yukinichi/leetcode/blob/master/Java/1029.two-city-scheduling.java) \| [DP](https://github.com/Yukinichi/leetcode/blob/master/Cpp/1029.two-city-scheduling.cpp)
@@ -87,6 +89,7 @@
 :-         |   :-: 
 [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/43.multiply-strings.java)
 [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/50.pow-x-n.java)
+[837. New 21 Game](https://leetcode.com/problems/new-21-game/) | [算累加条件概率](https://github.com/Yukinichi/leetcode/blob/master/Java/837.new-21-game.java)
 
 
 ## Monotonic Queue
@@ -95,6 +98,7 @@
 [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Monotinic Stack](https://github.com/Yukinichi/leetcode/blob/master/Java/84.largest-rectangle-in-histogram.java)
 [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [思路同84](https://github.com/Yukinichi/leetcode/blob/master/Java/85.maximal-rectangle.java)
 [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Monotonic Stack](https://github.com/Yukinichi/leetcode/blob/master/Java/402.remove-k-digits.java)
+[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Monotic Queue + sliding window](https://github.com/Yukinichi/leetcode/blob/master/Java/239.sliding-window-maximum.java)
 [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [Monotonic Queue + Sliding Window](https://github.com/Yukinichi/leetcode/blob/master/Java/862.shortest-subarray-with-sum-at-least-k.java)
 
 ## OOD 
@@ -120,6 +124,7 @@
 [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | [双向BFS](https://github.com/Yukinichi/leetcode/blob/master/Java/127.word-ladder.java)
 [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | [双向BFS + DFS + path建图(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/126.word-ladder-ii.java) \| [单向BFS(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/126.word-ladder-ii.cpp)
 [140. Word Break II](https://leetcode.com/problems/word-break-ii/) | [DFS + memo](https://github.com/Yukinichi/leetcode/blob/master/Java/140.word-break-ii.java)
+[329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [DFS + memo](https://github.com/Yukinichi/leetcode/blob/master/Java/329.longest-increasing-path-in-a-matrix.java)
 [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [DFS + memo Solution(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/472.concatenated-words.cpp) \| [Trie Solution(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/472.concatenated-words.java)
 
 
@@ -127,6 +132,7 @@
 | Problem   | Solution   
 :-         |   :-: 
 [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Java Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/76.minimum-window-substring.java)
+[480. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [minHeap + maxHeap](https://github.com/Yukinichi/leetcode/blob/master/Java/480.sliding-window-median.java)
 [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Sliding window + hashmap模版](https://github.com/Yukinichi/leetcode/blob/master/Java/438.find-all-anagrams-in-a-string.java)
 [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [有负数不能用two pointer做sliding window, 换成hashmap的变种](https://github.com/Yukinichi/leetcode/blob/master/Java/560.subarray-sum-equals-k.java)
 
@@ -144,6 +150,7 @@
 ## Tree   
 | Problem   | Solution   
 :-         |   :-: 
+[662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/662.maximum-width-of-binary-tree.java)
 [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/1110.delete-nodes-and-return-forest.java)
 
 ## TreeMap(Ordered Map)
