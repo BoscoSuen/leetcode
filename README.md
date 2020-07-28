@@ -26,6 +26,7 @@
 | Problem   | Solution   
 :-         |   :-: 
 [137. Single Number II](https://leetcode.com/problems/single-number-ii/) | [解决n个重复数字找不同问题](https://github.com/Yukinichi/leetcode/blob/master/Java/137.single-number-ii.java)
+[260. Single Number III](https://leetcode.com/problems/single-number-iii/) | [xor + lowbit](https://github.com/Yukinichi/leetcode/blob/master/Java/260.single-number-iii.java)
 [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [bit and找intersection优化combination问题](https://github.com/Yukinichi/leetcode/blob/master/Java/1239.maximum-length-of-a-concatenated-string-with-unique-characters.java) \| [C++ bitset](https://github.com/Yukinichi/leetcode/blob/master/Cpp/1239.maximum-length-of-a-concatenated-string-with-unique-characters.cpp)
 
 ## Dynamic Programming
@@ -116,6 +117,7 @@
 | Problem   | Solution   
 :-         |   :-: 
 [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [Random + binarySeach](https://github.com/Yukinichi/leetcode/blob/master/Java/528.random-pick-with-weight.java)
+[384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [inside-out shuffle](https://github.com/Yukinichi/leetcode/blob/master/Java/384.shuffle-an-array.java)
 
 ## Search
 | Problem   | Solution   
