@@ -19,6 +19,7 @@
 ## Binary Search Tree(BST)   
 | Problem   | Solution   
 :-         |   :-: 
+[162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [binary search找peak](https://github.com/Yukinichi/leetcode/blob/master/Java/162.find-peak-element.java)
 [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Java Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/315.count-of-smaller-numbers-after-self.java) 
 [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [递归O(n)解](https://github.com/Yukinichi/leetcode/blob/master/Java/1008.construct-binary-search-tree-from-preorder-traversal.java)
 
@@ -110,6 +111,7 @@
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | [HashMap + Doubly Linked List](https://github.com/Yukinichi/leetcode/blob/master/Java/146.lru-cache.java) \| [Java LinkedHashMap](https://github.com/Yukinichi/leetcode/blob/master/Java/146.lru-cache-solution2.java)
 [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | [HashMap + TreeSet(Ologn)](https://github.com/Yukinichi/leetcode/blob/master/Java/460.lfu-cache.java) \| [HashMap + DList(O(1))](https://github.com/Yukinichi/leetcode/blob/master/Java/460.lfu-cache-2.java)
 [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | [思路同LFU Cache](https://github.com/Yukinichi/leetcode/blob/master/Java/895.maximum-frequency-stack.java)
+[705. Design HashSet](https://leetcode.com/problems/design-hashset/) | [linkedlist handle hashing collision](https://github.com/Yukinichi/leetcode/blob/master/Java/705.design-hash-set.java)
 [706. Design HashMap](https://leetcode.com/problems/design-hashmap/) | [linkedlist handle hashing collision](https://github.com/Yukinichi/leetcode/blob/master/Java/706.design-hash-map.java)
 [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [hashMap + binarySearch](https://github.com/Yukinichi/leetcode/blob/master/Java/981.time-based-key-value-store.java)
 [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [list数组 or TreeMap](https://github.com/Yukinichi/leetcode/blob/master/Java/1146.snapshot-array.java)
