@@ -47,6 +47,7 @@
 [1320. Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [dfs+memorization](https://github.com/Yukinichi/leetcode/blob/master/Java/1320.minimum-distance-to-type-a-word-using-two-fingers.java)
 [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | [从对应边长找状态转移方程](https://github.com/Yukinichi/leetcode/blob/master/Java/221.maximal-square.java)
 [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [LCS问题](https://github.com/Yukinichi/leetcode/blob/master/Java/1143.longest-common-subsequence.java)
+[1312. Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [区间dp(小区间->大区间)](https://github.com/Yukinichi/leetcode/blob/master/Java/1312.minimum-insertion-steps-to-make-a-string-palindrome.java)
 
 
 ## Fenwick Tree / Binary Indexed Tree(BIT)
