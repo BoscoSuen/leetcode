@@ -38,6 +38,7 @@
 [42. trapping rain water](https://leetcode.com/problems/trapping-rain-water/) | [DP优化为two pointer](https://github.com/Yukinichi/leetcode/blob/master/Java/42.trapping-rain-water.java)
 [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/72.edit-distance.java)
 [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/96.unique-binary-search-trees.java)
+[188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [局部最优vs全局最优](https://github.com/Yukinichi/leetcode/blob/master/Java/188.best-time-to-buy-and-sell-stock-iv.java)
 [300. Longest Increasing Subsequence(LIS)](https://leetcode.com/problems/longest-increasing-subsequence/) | [DP + binary search(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/300.longest-increasing-subsequence.cpp)
 [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [LIS问题变种](https://github.com/Yukinichi/leetcode/blob/master/Java/368.largest-divisible-subset.java)
 [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Binary Search+DP(思路同lc300)](https://github.com/Yukinichi/leetcode/blob/master/Java/354.russian-doll-envelopes.java)
@@ -122,6 +123,7 @@
 :-         |   :-: 
 [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [Random + binarySeach](https://github.com/Yukinichi/leetcode/blob/master/Java/528.random-pick-with-weight.java)
 [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [inside-out shuffle](https://github.com/Yukinichi/leetcode/blob/master/Java/384.shuffle-an-array.java)
+[470. Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/470.implement-rand-10-using-rand-7.java)
 
 ## Search
 | Problem   | Solution   
