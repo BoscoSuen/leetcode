@@ -135,6 +135,7 @@
 [140. Word Break II](https://leetcode.com/problems/word-break-ii/) | [DFS + memo](https://github.com/Yukinichi/leetcode/blob/master/Java/140.word-break-ii.java)
 [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [DFS + memo](https://github.com/Yukinichi/leetcode/blob/master/Java/329.longest-increasing-path-in-a-matrix.java)
 [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [DFS + memo Solution(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/472.concatenated-words.cpp) \| [Trie Solution(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/472.concatenated-words.java)
+[489. Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) | [模拟dfs, 注意当前robot朝向](https://github.com/Yukinichi/leetcode/blob/master/Java/489.robot-room-cleaner.java)
 
 
 ## Sliding Window
@@ -179,3 +180,4 @@
 | Problem   | Solution   
 :-         |   :-: 
 [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Union Find](https://github.com/Yukinichi/leetcode/blob/master/Java/695.max-area-of-island.java) \| [DFS](https://github.com/Yukinichi/leetcode/blob/master/Cpp/695.max-area-of-island.cpp)
+[952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [连接公因数的UF](https://github.com/Yukinichi/leetcode/blob/master/Java/952.largest-component-size-by-common-factor.java)
