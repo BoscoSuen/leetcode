@@ -35,6 +35,7 @@
 :-         |   :-: 
 [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Manacher's Algorithm](https://github.com/Yukinichi/leetcode/blob/master/Note/Manacher_Algorithm.md)
 [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [字符串匹配类dp](https://github.com/Yukinichi/leetcode/blob/master/Java/10.regular-expression-matching.java)
+[152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [记录当前结尾的subarray](https://github.com/Yukinichi/leetcode/blob/master/Java/152.maximum-product-subarray.java)
 [42. trapping rain water](https://leetcode.com/problems/trapping-rain-water/) | [DP优化为two pointer](https://github.com/Yukinichi/leetcode/blob/master/Java/42.trapping-rain-water.java)
 [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/72.edit-distance.java)
 [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/96.unique-binary-search-trees.java)
