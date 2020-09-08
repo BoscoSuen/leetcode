@@ -113,6 +113,7 @@
 :-         |   :-: 
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | [HashMap + Doubly Linked List](https://github.com/Yukinichi/leetcode/blob/master/Java/146.lru-cache.java) \| [Java LinkedHashMap](https://github.com/Yukinichi/leetcode/blob/master/Java/146.lru-cache-solution2.java)
 [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | [HashMap + TreeSet(Ologn)](https://github.com/Yukinichi/leetcode/blob/master/Java/460.lfu-cache.java) \| [HashMap + DList(O(1))](https://github.com/Yukinichi/leetcode/blob/master/Java/460.lfu-cache-2.java)
+[642. Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | [Trie + PriorityQueue](https://github.com/Yukinichi/leetcode/blob/master/Java/642.design-search-autocomplete-system.java)
 [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | [思路同LFU Cache](https://github.com/Yukinichi/leetcode/blob/master/Java/895.maximum-frequency-stack.java)
 [705. Design HashSet](https://leetcode.com/problems/design-hashset/) | [linkedlist handle hashing collision](https://github.com/Yukinichi/leetcode/blob/master/Java/705.design-hash-set.java)
 [706. Design HashMap](https://leetcode.com/problems/design-hashmap/) | [linkedlist handle hashing collision](https://github.com/Yukinichi/leetcode/blob/master/Java/706.design-hash-map.java)
