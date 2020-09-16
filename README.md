@@ -148,6 +148,7 @@
 [480. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [minHeap + maxHeap](https://github.com/Yukinichi/leetcode/blob/master/Java/480.sliding-window-median.java)
 [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Sliding window + hashmap模版](https://github.com/Yukinichi/leetcode/blob/master/Java/438.find-all-anagrams-in-a-string.java)
 [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [有负数不能用two pointer做sliding window, 换成hashmap的变种](https://github.com/Yukinichi/leetcode/blob/master/Java/560.subarray-sum-equals-k.java)
+[1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [Sliding window + monotonic queue](https://github.com/Yukinichi/leetcode/blob/master/Java/1438.longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.java)
 
 
 ## String
