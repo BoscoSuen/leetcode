@@ -79,6 +79,7 @@
 [135. Candy](https://leetcode.com/problems/candy/) | [一次遍历 spaceO(1)解](https://github.com/Yukinichi/leetcode/blob/master/Java/135.candy.java)
 [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | [greedy + two pointer](https://github.com/Yukinichi/leetcode/blob/master/Java/763.partition-labels.java)
 [757. Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/757.set-intersection-size-at-least-two.java)
+[630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | [按照结束时间和duration结合greedy](https://github.com/Yukinichi/leetcode/blob/master/Java/630.course-schedule-iii.java)
 [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Greedy](https://github.com/Yukinichi/leetcode/blob/master/Java/1029.two-city-scheduling.java) \| [DP](https://github.com/Yukinichi/leetcode/blob/master/Cpp/1029.two-city-scheduling.cpp)
 
 ## Iterator
@@ -159,7 +160,9 @@
 ## Quick Select(TopK)
 | Problem   | Solution   
 :-         |   :-: 
+[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [quick select](https://github.com/Yukinichi/leetcode/blob/master/Java/215.kth-largest-element-in-an-array.java)
 [973 K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Quick Select](https://github.com/Yukinichi/leetcode/blob/master/Java/973.k-closest-points-to-origin.java)
+[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [freq有上限, bucket sort](https://github.com/Yukinichi/leetcode/blob/master/Java/347.top-k-frequent-elements.java)
 
 ## Tree   
 | Problem   | Solution   
@@ -178,6 +181,7 @@
 :-         |   :-: 
 [208. Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Trie模版](https://github.com/Yukinichi/leetcode/blob/master/Java/208.implement-trie-prefix-tree.java)
 [212. Word Search II](https://leetcode.com/problems/word-search-ii/) | [Dfs + Trie剪枝](https://github.com/Yukinichi/leetcode/blob/master/Java/212.word-search-ii.java)
+[421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Bitwise Trie(按照unsigned int建trie)](https://github.com/Yukinichi/leetcode/blob/master/Java/421.maximum-xor-of-two-numbers-in-an-array.java)
 [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [Trie Solution(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/472.concatenated-words.java) \| [DFS + memo Solution(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/472.concatenated-words.cpp)
 [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [Trie](https://github.com/Yukinichi/leetcode/blob/master/Java/1268.search-suggestions-system.java)
 
