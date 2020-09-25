@@ -142,6 +142,10 @@
 [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [DFS + memo Solution(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/472.concatenated-words.cpp) \| [Trie Solution(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/472.concatenated-words.java)
 [489. Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) | [模拟dfs, 注意当前robot朝向](https://github.com/Yukinichi/leetcode/blob/master/Java/489.robot-room-cleaner.java)
 
+## Segment Tree
+| Problem   | Solution   
+:-         |   :-: 
+[307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [Segment Tree模版](https://github.com/Yukinichi/leetcode/blob/master/Java/307.range-sum-query-mutable.java)
 
 ## Sliding Window
 | Problem   | Solution   
@@ -190,4 +194,5 @@
 | Problem   | Solution   
 :-         |   :-: 
 [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Union Find](https://github.com/Yukinichi/leetcode/blob/master/Java/695.max-area-of-island.java) \| [DFS](https://github.com/Yukinichi/leetcode/blob/master/Cpp/695.max-area-of-island.cpp)
+[803. Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/) | [Union Find](https://github.com/Yukinichi/leetcode/blob/master/Java/803.bricks-falling-when-hit.java)
 [952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [连接公因数的UF](https://github.com/Yukinichi/leetcode/blob/master/Java/952.largest-component-size-by-common-factor.java)
