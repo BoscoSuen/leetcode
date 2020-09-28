@@ -6,6 +6,7 @@
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/48.rotate-image.java)
 [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [注意半边之后要重新判断](https://github.com/Yukinichi/leetcode/blob/master/Java/54.spiral-matrix.java)
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Binary Search(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/287.find-the-duplicate-number.cpp) \| [Cycle Detection(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/287.find-the-duplicate-number.java)
+[418. Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/) | [建立退格的mapping](https://github.com/Yukinichi/leetcode/blob/master/Java/418.sentence-screen-fitting.java)
 
 ## Binary Search    
 | Problem   | Solution   
@@ -107,8 +108,10 @@
 [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Monotinic Stack](https://github.com/Yukinichi/leetcode/blob/master/Java/84.largest-rectangle-in-histogram.java)
 [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [思路同84](https://github.com/Yukinichi/leetcode/blob/master/Java/85.maximal-rectangle.java)
 [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Monotonic Stack](https://github.com/Yukinichi/leetcode/blob/master/Java/402.remove-k-digits.java)
+[907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Monotonic stack确定元素范围](https://github.com/Yukinichi/leetcode/blob/master/Java/907.sum-of-subarray-minimums.java)
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Monotic Queue + sliding window](https://github.com/Yukinichi/leetcode/blob/master/Java/239.sliding-window-maximum.java)
 [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [Monotonic Queue + Sliding Window](https://github.com/Yukinichi/leetcode/blob/master/Java/862.shortest-subarray-with-sum-at-least-k.java)
+
 
 ## OOD 
 | Problem   | Solution   
@@ -151,6 +154,7 @@
 | Problem   | Solution   
 :-         |   :-: 
 [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Java Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/76.minimum-window-substring.java)
+[424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [互补sliding window](https://github.com/Yukinichi/leetcode/blob/master/Java/424.longest-repeating-character-replacement.java)
 [480. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [minHeap + maxHeap](https://github.com/Yukinichi/leetcode/blob/master/Java/480.sliding-window-median.java)
 [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Sliding window + hashmap模版](https://github.com/Yukinichi/leetcode/blob/master/Java/438.find-all-anagrams-in-a-string.java)
 [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [有负数不能用two pointer做sliding window, 换成hashmap的变种](https://github.com/Yukinichi/leetcode/blob/master/Java/560.subarray-sum-equals-k.java)
