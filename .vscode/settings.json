@@ -15,5 +15,6 @@
         "editorError.foreground":   "#00000000",
         "editorWarning.foreground": "#00000000",
         "editorInfo.foreground":    "#00000000"
-    }
+    },
+    "editor.tabSize": 2
 }
