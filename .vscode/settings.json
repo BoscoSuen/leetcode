@@ -15,5 +15,17 @@
         "editorError.foreground":   "#00000000",
         "editorWarning.foreground": "#00000000",
         "editorInfo.foreground":    "#00000000"
-    }
+    },
+    "[go]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4,
+        "editor.formatOnSave": false
+        },
+    "go.useLanguageServer": true,
+    "go.toolsEnvVars": {
+        "GO111MODULE": "on",
+        "GOPROXY": "https://goproxy.io",
+    },
+    "go.docsTool": "gogetdoc",
+    "go.lintOnSave": "off"
 }
