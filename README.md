@@ -1,39 +1,39 @@
 # Topic with starred leetcode problems
 
 ## Array
-| Problem   | Solution   
-:-         |   :-: 
+| Problem   | Solution
+:-         |   :-:
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/48.rotate-image.java)
 [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [注意半边之后要重新判断](https://github.com/Yukinichi/leetcode/blob/master/Java/54.spiral-matrix.java)
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Binary Search(C++)](https://github.com/Yukinichi/leetcode/blob/master/Cpp/287.find-the-duplicate-number.cpp) \| [Cycle Detection(Java)](https://github.com/Yukinichi/leetcode/blob/master/Java/287.find-the-duplicate-number.java)
 [418. Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/) | [建立退格的mapping](https://github.com/Yukinichi/leetcode/blob/master/Java/418.sentence-screen-fitting.java)
 
-## Binary Search    
-| Problem   | Solution   
-:-         |   :-:  
-[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)          | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/33.search-in-rotated-sorted-array.java)  
+## Binary Search
+| Problem   | Solution
+:-         |   :-:
+[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)          | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/33.search-in-rotated-sorted-array.java)
 [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [多考虑重复的情况](https://github.com/Yukinichi/leetcode/blob/master/Java/81.search-in-rotated-sorted-array-ii.java)
 [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/34.find-first-and-last-position-of-element-in-sorted-array.java)
 [1044. Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | [String Hashing(Rabin Karp's Algorithm) + Binary Search](https://github.com/Yukinichi/leetcode/blob/master/Java/1044.longest-duplicate-substring.java)
 [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [lower_bound&upper_bound, use emplace_back](https://github.com/Yukinichi/leetcode/blob/master/Cpp/1268.search-suggestions-system.cpp)
 
-## Binary Search Tree(BST)   
-| Problem   | Solution   
-:-         |   :-: 
+## Binary Search Tree(BST)
+| Problem   | Solution
+:-         |   :-:
 [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [binary search找peak](https://github.com/Yukinichi/leetcode/blob/master/Java/162.find-peak-element.java)
-[315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Java Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/315.count-of-smaller-numbers-after-self.java) 
+[315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Java Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/315.count-of-smaller-numbers-after-self.java)
 [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [递归O(n)解](https://github.com/Yukinichi/leetcode/blob/master/Java/1008.construct-binary-search-tree-from-preorder-traversal.java)
 
-## Bit Manipulation  
-| Problem   | Solution   
-:-         |   :-: 
+## Bit Manipulation
+| Problem   | Solution
+:-         |   :-:
 [137. Single Number II](https://leetcode.com/problems/single-number-ii/) | [解决n个重复数字找不同问题](https://github.com/Yukinichi/leetcode/blob/master/Java/137.single-number-ii.java)
 [260. Single Number III](https://leetcode.com/problems/single-number-iii/) | [xor + lowbit](https://github.com/Yukinichi/leetcode/blob/master/Java/260.single-number-iii.java)
 [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [bit and找intersection优化combination问题](https://github.com/Yukinichi/leetcode/blob/master/Java/1239.maximum-length-of-a-concatenated-string-with-unique-characters.java) \| [C++ bitset](https://github.com/Yukinichi/leetcode/blob/master/Cpp/1239.maximum-length-of-a-concatenated-string-with-unique-characters.cpp)
 
 ## Dynamic Programming
-| Problem   | Solution   
-:-         |   :-: 
+| Problem   | Solution
+:-         |   :-:
 [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Manacher's Algorithm](https://github.com/Yukinichi/leetcode/blob/master/Note/Manacher_Algorithm.md)
 [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [字符串匹配类dp](https://github.com/Yukinichi/leetcode/blob/master/Java/10.regular-expression-matching.java)
 [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [记录当前结尾的subarray](https://github.com/Yukinichi/leetcode/blob/master/Java/152.maximum-product-subarray.java)
@@ -55,13 +55,13 @@
 
 
 ## Fenwick Tree / Binary Indexed Tree(BIT)
-| Problem   | Solution   
-:-         |   :-: 
+| Problem   | Solution
+:-         |   :-:
 [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [C++ Solution](https://github.com/Yukinichi/leetcode/blob/master/Cpp/315.count-of-smaller-numbers-after-self.cpp)
 
 ## Graph
-| Problem   | Solution   
-:-         |   :-: 
+| Problem   | Solution
+:-         |   :-:
 [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [由tree建无向图BFS](https://github.com/Yukinichi/leetcode/blob/master/Java/863.all-nodes-distance-k-in-binary-tree.java)
 [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | [Topological Sort](https://github.com/Yukinichi/leetcode/blob/master/Java/207.course-schedule.java)
 [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Topological Sort](https://github.com/Yukinichi/leetcode/blob/master/Java/210.course-schedule-ii.java)
@@ -74,8 +74,8 @@
 [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [todo]()
 
 ## Greedy
-| Problem   | Solution   
-:-         |   :-: 
+| Problem   | Solution
+:-         |   :-:
 [55. Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/55.jump-game.java)
 [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/45.jump-game-ii.java)
 [135. Candy](https://leetcode.com/problems/candy/) | [一次遍历 spaceO(1)解](https://github.com/Yukinichi/leetcode/blob/master/Java/135.candy.java)
@@ -85,26 +85,26 @@
 [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Greedy](https://github.com/Yukinichi/leetcode/blob/master/Java/1029.two-city-scheduling.java) \| [DP](https://github.com/Yukinichi/leetcode/blob/master/Cpp/1029.two-city-scheduling.cpp)
 
 ## Iterator
-| Problem   | Solution   
-:-         |   :-: 
+| Problem   | Solution
+:-         |   :-:
 [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [List Iterator](https://github.com/Yukinichi/leetcode/blob/master/Java/341.flatten-nested-list-iterator.java)
 
 ## Linked-List
-| Problem   | Solution   
-:-         |   :-: 
+| Problem   | Solution
+:-         |   :-:
 [148. Sort List](https://leetcode.com/problems/sort-list/) | [merge sort](https://github.com/Yukinichi/leetcode/blob/master/Cpp/148.sort-list.cpp) \| [space O(1) Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/148.sort-list.java)
 
 ## Math
-| Problem   | Solution   
-:-         |   :-: 
+| Problem   | Solution
+:-         |   :-:
 [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/43.multiply-strings.java)
 [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/50.pow-x-n.java)
 [837. New 21 Game](https://leetcode.com/problems/new-21-game/) | [算累加条件概率](https://github.com/Yukinichi/leetcode/blob/master/Java/837.new-21-game.java)
 
 
 ## Monotonic Queue
-| Problem   | Solution   
-:-         |   :-: 
+| Problem   | Solution
+:-         |   :-:
 [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Monotinic Stack](https://github.com/Yukinichi/leetcode/blob/master/Java/84.largest-rectangle-in-histogram.java)
 [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [思路同84](https://github.com/Yukinichi/leetcode/blob/master/Java/85.maximal-rectangle.java)
 [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Monotonic Stack](https://github.com/Yukinichi/leetcode/blob/master/Java/402.remove-k-digits.java)
@@ -113,9 +113,9 @@
 [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [Monotonic Queue + Sliding Window](https://github.com/Yukinichi/leetcode/blob/master/Java/862.shortest-subarray-with-sum-at-least-k.java)
 
 
-## OOD 
-| Problem   | Solution   
-:-         |   :-: 
+## OOD
+| Problem   | Solution
+:-         |   :-:
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | [HashMap + Doubly Linked List](https://github.com/Yukinichi/leetcode/blob/master/Java/146.lru-cache.java) \| [Java LinkedHashMap](https://github.com/Yukinichi/leetcode/blob/master/Java/146.lru-cache-solution2.java)
 [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | [HashMap + TreeSet(Ologn)](https://github.com/Yukinichi/leetcode/blob/master/Java/460.lfu-cache.java) \| [HashMap + DList(O(1))](https://github.com/Yukinichi/leetcode/blob/master/Java/460.lfu-cache-2.java)
 [642. Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | [Trie + PriorityQueue](https://github.com/Yukinichi/leetcode/blob/master/Java/642.design-search-autocomplete-system.java)
@@ -126,15 +126,15 @@
 [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [list数组 or TreeMap](https://github.com/Yukinichi/leetcode/blob/master/Java/1146.snapshot-array.java)
 
 ## Random
-| Problem   | Solution   
-:-         |   :-: 
+| Problem   | Solution
+:-         |   :-:
 [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [Random + binarySeach](https://github.com/Yukinichi/leetcode/blob/master/Java/528.random-pick-with-weight.java)
 [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [inside-out shuffle](https://github.com/Yukinichi/leetcode/blob/master/Java/384.shuffle-an-array.java)
 [470. Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/470.implement-rand-10-using-rand-7.java)
 
 ## Search
-| Problem   | Solution   
-:-         |   :-: 
+| Problem   | Solution
+:-         |   :-:
 [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [找到确定每个位置的数字的规律](https://github.com/Yukinichi/leetcode/blob/master/Java/60.permutation-sequence.java)
 [90.subsets II](https://leetcode.com/problems/subsets-ii/) | [subset去重](https://github.com/Yukinichi/leetcode/blob/master/Java/90.subsets-ii.java)
 [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | [双向BFS](https://github.com/Yukinichi/leetcode/blob/master/Java/127.word-ladder.java)
@@ -146,13 +146,13 @@
 [489. Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) | [模拟dfs, 注意当前robot朝向](https://github.com/Yukinichi/leetcode/blob/master/Java/489.robot-room-cleaner.java)
 
 ## Segment Tree
-| Problem   | Solution   
-:-         |   :-: 
+| Problem   | Solution
+:-         |   :-:
 [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [Segment Tree模版](https://github.com/Yukinichi/leetcode/blob/master/Java/307.range-sum-query-mutable.java)
 
 ## Sliding Window
-| Problem   | Solution   
-:-         |   :-: 
+| Problem   | Solution
+:-         |   :-:
 [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Java Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/76.minimum-window-substring.java)
 [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [互补sliding window](https://github.com/Yukinichi/leetcode/blob/master/Java/424.longest-repeating-character-replacement.java)
 [480. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [minHeap + maxHeap](https://github.com/Yukinichi/leetcode/blob/master/Java/480.sliding-window-median.java)
@@ -162,32 +162,32 @@
 
 
 ## String
-| Problem   | Solution   
-:-         |   :-: 
+| Problem   | Solution
+:-         |   :-:
 [468.Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [String split, NumberFormatException](https://github.com/Yukinichi/leetcode/blob/master/Java/468.validate-ip-address.java)
 
 ## Quick Select(TopK)
-| Problem   | Solution   
-:-         |   :-: 
+| Problem   | Solution
+:-         |   :-:
 [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [quick select](https://github.com/Yukinichi/leetcode/blob/master/Java/215.kth-largest-element-in-an-array.java)
 [973 K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Quick Select](https://github.com/Yukinichi/leetcode/blob/master/Java/973.k-closest-points-to-origin.java)
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [freq有上限, bucket sort](https://github.com/Yukinichi/leetcode/blob/master/Java/347.top-k-frequent-elements.java)
 
-## Tree   
-| Problem   | Solution   
-:-         |   :-: 
+## Tree
+| Problem   | Solution
+:-         |   :-:
 [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [preorder + level check](https://github.com/Yukinichi/leetcode/blob/master/Java/199.binary-tree-right-side-view.java)
 [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/662.maximum-width-of-binary-tree.java)
 [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Solution](https://github.com/Yukinichi/leetcode/blob/master/Java/1110.delete-nodes-and-return-forest.java)
 
 ## TreeMap(Ordered Map)
-| Problem   | Solution   
-:-         |   :-: 
+| Problem   | Solution
+:-         |   :-:
 [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | [注意follow up](https://github.com/Yukinichi/leetcode/blob/master/Java/846.hand-of-straights.java)
 
 ## Trie
-| Problem   | Solution   
-:-         |   :-: 
+| Problem   | Solution
+:-         |   :-:
 [208. Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Trie模版](https://github.com/Yukinichi/leetcode/blob/master/Java/208.implement-trie-prefix-tree.java)
 [212. Word Search II](https://leetcode.com/problems/word-search-ii/) | [Dfs + Trie剪枝](https://github.com/Yukinichi/leetcode/blob/master/Java/212.word-search-ii.java)
 [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Bitwise Trie(按照unsigned int建trie)](https://github.com/Yukinichi/leetcode/blob/master/Java/421.maximum-xor-of-two-numbers-in-an-array.java)
@@ -195,8 +195,9 @@
 [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [Trie](https://github.com/Yukinichi/leetcode/blob/master/Java/1268.search-suggestions-system.java)
 
 ## Union Find
-| Problem   | Solution   
-:-         |   :-: 
+| Problem   | Solution
+:-         |   :-:
 [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Union Find](https://github.com/Yukinichi/leetcode/blob/master/Java/695.max-area-of-island.java) \| [DFS](https://github.com/Yukinichi/leetcode/blob/master/Cpp/695.max-area-of-island.cpp)
 [803. Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/) | [Union Find](https://github.com/Yukinichi/leetcode/blob/master/Java/803.bricks-falling-when-hit.java)
+[947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [Union-Find Golang模版](https://github.com/Yukinichi/leetcode/blob/master/Go/947.most-stones-removed-with-same-row-or-column.go)
 [952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [连接公因数的UF](https://github.com/Yukinichi/leetcode/blob/master/Java/952.largest-component-size-by-common-factor.java)
